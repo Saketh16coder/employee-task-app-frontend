@@ -9,7 +9,7 @@ Fully responsive UI built with Tailwind CSS
 
 No build tools — uses React UMD + ES Modules
 
-## Pages:
+### Pages:
 
 /login
 
@@ -17,7 +17,7 @@ No build tools — uses React UMD + ES Modules
 
 /dashboard
 
-## Modular components:
+### Modular components:
 
 AuthForm.js
 
@@ -37,7 +37,7 @@ Logout support
 
 Works seamlessly with the SQLite API backend
 
-#### 🗂️ Frontend File Structure
+### 🗂️ Frontend File Structure
 frontend/
 │── index.html
 │── app.js
@@ -70,7 +70,7 @@ Task form + task list
 
 Logout button
 
-#### 🔧 How to Run Frontend
+### 🔧 How to Run Frontend
 
 Frontend runs automatically when backend serves static files.
 
